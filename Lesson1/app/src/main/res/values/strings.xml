@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloActivity</string>
+    <string name="greeting">Hello World!</string>
+    <string name="helloer">KochevniK</string>
+    <string name="morning">Good morning</string>
+    <string name="afternoon">Good afternoon</string>
+    <string name="evening">Good evening</string>
+    <string name="night">Good night</string>
+</resources>
