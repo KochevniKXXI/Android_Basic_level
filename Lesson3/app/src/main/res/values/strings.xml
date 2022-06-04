@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson3</string>
+    <string name="some_text">Демонстрация жизненного цикла Activity</string>
+    <string name="increment">INCREMENT</string>
+    <string name="counter_text">Counter</string>
+    <string name="to_back">BACK</string>
+    <string name="to_second">SECOND</string>
+    <string name="activity_main">Activity Main!</string>
+    <string name="activity_second">Activity Second!</string>
+    <string name="name_text">Name</string>
+    <string name="get_text">TextView</string>
+</resources>
