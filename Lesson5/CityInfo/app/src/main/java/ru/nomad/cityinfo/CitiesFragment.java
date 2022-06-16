@@ -55,6 +55,11 @@ public class CitiesFragment extends ListFragment {
         } else {
             currentParcel = new Parcel(0, getResources().getTextArray(R.array.Cities)[0].toString());
         }
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
 
         // Если можно нарисовать рядом герб, то рисуем
         if (isExistCoatofarms) {
